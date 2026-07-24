@@ -5,10 +5,9 @@ body {
     line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.02em;
+    background-color: #fff;
 }
-section{
-    background-color: #f4f4fd
-}
+
 h1 {
     font-size: 56px;
     line-height: 1.07;
@@ -39,7 +38,8 @@ a{
     color: inherit;
     text-decoration: none;
 }
-a:hover{
+a:hover,
+a:focus{
     color: #404BBF;
 }
 button{
@@ -54,4 +54,9 @@ address{
 }
 .focus-color-web:hover{
     color: #404BBF;
+}
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.03em
 }

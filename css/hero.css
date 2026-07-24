@@ -12,6 +12,6 @@
     letter-spacing: 0.04em;
 }
 .hero-btn:hover,
-.hero-btn:active{
+.hero-btn:focus{
     background-color: #404BBF;
 }

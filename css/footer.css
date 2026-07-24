@@ -4,10 +4,9 @@
 }
 
 .footer-description {
-    color:  #F4F4FD;
+    color: #F4F4FD;
 }
 
-.footer-logo:hover .focus-color-web,
-.footer-logo:focus .focus-color-web {
-  color: #4d5ae5;
+.footer-logo:hover{
+     color: #F4F4FD;
 }

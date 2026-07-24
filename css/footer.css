@@ -1,9 +1,9 @@
-#footer {
+.footer {
     background-color: #2E2F42;
     color: #F4F4FD;
 }
 
-#footer>p {
+.footer>p {
     color: inherit;
  
 }

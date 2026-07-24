@@ -2,23 +2,26 @@ body {
     font-family: "Roboto",sans-serif;
     font-weight: 400;
     color: #2E2F42;
-    line-height: 24px;
+    line-height: 1.5;
     font-size: 16px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
-
+section{
+    background-color: #f4f4fd
+}
 h1 {
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
 }
 h2 {
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     text-align: center;
 }
 h3{
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
 }
 h1,
 h2 {
@@ -43,7 +46,9 @@ button{
     cursor: pointer;
     font-weight: 500;
 }
-
+address{
+    font-style: normal;
+}
 .focus-color-web {
     color: #4D5AE5;
 }

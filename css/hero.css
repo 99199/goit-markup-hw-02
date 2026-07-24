@@ -1,0 +1,15 @@
+#hero{
+    background-color: #2E2F42;
+}
+.hero-h1{
+    color: #FFFFFF;
+    text-align: center;
+}
+.hero-btn{
+    background-color: #4D5AE5;
+    color:  #FFFFFF;
+    letter-spacing: 4%;
+}
+.hero-btn:hover{
+    background-color: #404BBF;
+}

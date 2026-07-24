@@ -4,5 +4,10 @@
 }
 
 .footer-description {
-    color: inherit;
+    color:  #F4F4FD;
+}
+
+.footer-logo:hover .focus-color-web,
+.footer-logo:focus .focus-color-web {
+  color: #4d5ae5;
 }
